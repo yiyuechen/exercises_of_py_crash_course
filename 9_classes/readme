@@ -1,0 +1,22 @@
+if语句不需要加括号，直接
+if A > B:
+    print("")
+就可以
+
+子类继承父类（superclass）的办法
+
+
+类中def定义和操作属性不要忘了self
+
+把实例用作属性9-8.py
+
+
+line 36, in get_range
+    message = "The car can go " + str(range) + " miles on a full charge."
+UnboundLocalError: local variable 'range' referenced before assignment
+
+range没有定义就直接引用（使用）了,原因是我错把battery_size默认值写成75，导致后面比较if没有给battery_size赋值
+
+
+
+导入类的时候，，如果类特别多，就直接导入整个模块比较好，比如类存储在car.py  就import car

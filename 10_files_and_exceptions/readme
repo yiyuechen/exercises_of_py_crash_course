@@ -1,0 +1,34 @@
+用read()方法，读取到达文件末尾时，会返回空的字符串，
+如果直接打印，就会打印出空字符，
+可以用rstrip()解决，(right strip)
+
+注意读取操作读完之后，原来的里面对象里面好像就没有了
+with open(filename) as file_object:
+    content = file_object.read()
+    lines = file_object.readlines()
+这样的话，lines里面其实是空的
+
+注意10-1中第三次打印时遍历文件对象如何遍历
+
+注意replace()要返回值，保存起来才能生效
+
+如何处理异常，定制友好的异常消息。这样的话，在遇到异常时，就可以正确处理并执行下面的程序，而不至于error。
+try-except-else方法， try to do sth, except on some special some condition(格式：except 错误名) we do a, else we do b
+try:
+
+except A:
+    do a...
+else:
+    do b...
+
+用pass语句让程序一声不吭
+try:
+
+except A:
+    pass
+else:
+
+
+注意10-6到底是TypeError还是ValueError
+
+重构：在代码能够运行的情况下，按照逻辑，把代码划分为一系列函数

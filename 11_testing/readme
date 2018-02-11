@@ -1,0 +1,31 @@
+在pycharm中使用unittest(和书上有所不同，书上是1. import unittest 2. 继承unittest.TestCase 3. unittest.main()
+两种方式：
+1.
+    1.创建tests空文件夹
+    2.from unitest import TestCase
+    3.test类继承TestCase
+    4.在test类中编写test方法
+2.
+    1.对要测试的函数或方法右击，选择go to->test，自动生成相应文件
+    2.在test类中编写方法即可
+
+如果想要和书上一样，可以把书上的第三步稍作修改
+if __name__ == "__main__":
+    unittest.main()
+即可
+
+
+
+一个严重的问题，起初11-3被我命名为employee，
+然后我在test_employee中from employee，自动补全显示的是文件夹employee，
+然后点击之后，继续import Employee，却出现错误，说Employee未unresolved
+
+class TestEmployee(TestCase):
+    def setUp(self):
+        # create a new employee object
+        self.employee = Employee('Jane', 'Austin', 50000)
+        # 忘记加self导致出错
+
+
+
+最后练习一下书上面的survey_example

@@ -1,0 +1,18 @@
+注意8-9中
+    在函数中修改列表出问题，为什么改不了？
+    这是一个常见错误，http://bookshadow.com/weblog/2014/05/14/top-10-mistakes-that-python-programmers-make/
+    如果传递进来的列表在一个函数中参与了运算，那么就会被当做局部变量，而不是它本身了。
+    但是用pop或者是append，就会被当做是外部变量
+
+    while namelist:         # here namelist is not shadow
+        namelist.pop()
+
+    上面因为循环里面是pop操作，所以while后面的那么namelist被当做外部变量；
+    如果循环里面不是pop()，而是其他赋值，也被当做外部变量，为什么？
+
+    8-9中两个make_great()都可用，注意分析
+
+
+传递任意数量实参，实际上是创建了一个元组，里面放传递进来的值
+
+注意8-13，传递任意数量含关键字的实参

@@ -1,0 +1,27 @@
+在访问列表时，可以用list[-1]来访问最后一个元素，list[-2]则是倒数第二个
+
+在列表中添加新元素，可以用list.append('element')
+其中element是要添加的元素
+
+插入元素，list.insert(0,'element')
+插在0处，原有的元素全部后移
+
+删除元素，
+1. 	del list(0) 直接删除了，以后没法用这个元素
+2. 	list.pop() 弹出最后一个元素，接着可以把它用在其他地方
+	如果list.pop(1) 则是弹出指定位置的元素
+3.	按值删除 list.remove('jane') 删除值为jane的元素，但是remove只删除第一次出现的地方，如果有多个值是删不干净的
+
+
+4.	排序列表
+	永久：使用方法	按字母正序：list.sort()  按字母倒序：list.sort(reverse=True)
+	暂时：使用函数	sorted(list)
+	
+5.	反转列表，列表从最后到最前排序
+	用方法reverse()
+	list.reverse()
+
+6.	函数len()，查看长度
+	len(list)
+
+7.	str()函数可以把int转为string
