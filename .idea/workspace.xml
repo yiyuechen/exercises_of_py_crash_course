@@ -1,7 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e880b124-fec7-47d0-adec-de43679931c1" name="Default" comment="" />
+    <list default="true" id="e880b124-fec7-47d0-adec-de43679931c1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/2_variables_and_data_types/2-3_personalized_message.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_variables_and_data_types/2-4_capital_or_not.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_variables_and_data_types/2-5_print_a_quote.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_variables_and_data_types/2-6_print_a_quote1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_variables_and_data_types/2-7_strip_a_name.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_variables_and_data_types/hello_world.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_variables_and_data_types/readme" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/3_lists/3-1_name_list.py" afterPath="$PROJECT_DIR$/03_lists/3-1_name_list.py" />
+      <change beforePath="$PROJECT_DIR$/3_lists/3-2_name_list_hello.py" afterPath="$PROJECT_DIR$/03_lists/3-2_name_list_hello.py" />
+      <change beforePath="$PROJECT_DIR$/3_lists/3-4_guests_names.py" afterPath="$PROJECT_DIR$/03_lists/3-4_guests_names.py" />
+      <change beforePath="$PROJECT_DIR$/3_lists/3-5_guests_names_modification.py" afterPath="$PROJECT_DIR$/03_lists/3-5_guests_names_modification.py" />
+      <change beforePath="$PROJECT_DIR$/3_lists/3-6_guests_number_modification.py" afterPath="$PROJECT_DIR$/03_lists/3-6_guests_number_modification.py" />
+      <change beforePath="$PROJECT_DIR$/3_lists/3-7_delete_names.py" afterPath="$PROJECT_DIR$/03_lists/3-7_delete_names.py" />
+      <change beforePath="$PROJECT_DIR$/3_lists/3-8_to_see_the_world.py" afterPath="$PROJECT_DIR$/03_lists/3-8_to_see_the_world.py" />
+      <change beforePath="$PROJECT_DIR$/3_lists/3-9_count_guests_number.py" afterPath="$PROJECT_DIR$/03_lists/3-9_count_guests_number.py" />
+      <change beforePath="$PROJECT_DIR$/3_lists/readme" afterPath="$PROJECT_DIR$/03_lists/readme" />
+      <change beforePath="$PROJECT_DIR$/4_lists/4-10_slices.py" afterPath="$PROJECT_DIR$/04_lists/4-10_slices.py" />
+      <change beforePath="$PROJECT_DIR$/4_lists/4-11_my_pizzas_your_pizzas.py" afterPath="$PROJECT_DIR$/04_lists/4-11_my_pizzas_your_pizzas.py" />
+      <change beforePath="$PROJECT_DIR$/4_lists/4-12_more_loops.py" afterPath="$PROJECT_DIR$/04_lists/4-12_more_loops.py" />
+      <change beforePath="$PROJECT_DIR$/4_lists/4-13_buffet.py" afterPath="$PROJECT_DIR$/04_lists/4-13_buffet.py" />
+      <change beforePath="$PROJECT_DIR$/4_lists/4-1_pizzas.py" afterPath="$PROJECT_DIR$/04_lists/4-1_pizzas.py" />
+      <change beforePath="$PROJECT_DIR$/4_lists/4-3_counting_to_twenty.py" afterPath="$PROJECT_DIR$/04_lists/4-3_counting_to_twenty.py" />
+      <change beforePath="$PROJECT_DIR$/4_lists/4-4_one_million.py" afterPath="$PROJECT_DIR$/04_lists/4-4_one_million.py" />
+      <change beforePath="$PROJECT_DIR$/4_lists/4-5_summing_a_million.py" afterPath="$PROJECT_DIR$/04_lists/4-5_summing_a_million.py" />
+      <change beforePath="$PROJECT_DIR$/4_lists/4-6_odd_numbers.py" afterPath="$PROJECT_DIR$/04_lists/4-6_odd_numbers.py" />
+      <change beforePath="$PROJECT_DIR$/4_lists/4-7_threes.py" afterPath="$PROJECT_DIR$/04_lists/4-7_threes.py" />
+      <change beforePath="$PROJECT_DIR$/4_lists/4-8_cubes.py" afterPath="$PROJECT_DIR$/04_lists/4-8_cubes.py" />
+      <change beforePath="$PROJECT_DIR$/4_lists/4-9_cube_comprehension.py" afterPath="$PROJECT_DIR$/04_lists/4-9_cube_comprehension.py" />
+      <change beforePath="$PROJECT_DIR$/4_lists/readme" afterPath="$PROJECT_DIR$/04_lists/readme" />
+      <change beforePath="$PROJECT_DIR$/5_if_statements/5-10_checking_usernames.py" afterPath="$PROJECT_DIR$/05_if_statements/5-10_checking_usernames.py" />
+      <change beforePath="$PROJECT_DIR$/5_if_statements/5-11_ordinal_numbers.py" afterPath="$PROJECT_DIR$/05_if_statements/5-11_ordinal_numbers.py" />
+      <change beforePath="$PROJECT_DIR$/5_if_statements/5-1_conditional_tests.py" afterPath="$PROJECT_DIR$/05_if_statements/5-1_conditional_tests.py" />
+      <change beforePath="$PROJECT_DIR$/5_if_statements/5-2_more_conditional_tests.py" afterPath="$PROJECT_DIR$/05_if_statements/5-2_more_conditional_tests.py" />
+      <change beforePath="$PROJECT_DIR$/5_if_statements/5-3_alien_colors.py" afterPath="$PROJECT_DIR$/05_if_statements/5-3_alien_colors.py" />
+      <change beforePath="$PROJECT_DIR$/5_if_statements/5-4_alien_colors.py" afterPath="$PROJECT_DIR$/05_if_statements/5-4_alien_colors.py" />
+      <change beforePath="$PROJECT_DIR$/5_if_statements/5-5_alien_colors.py" afterPath="$PROJECT_DIR$/05_if_statements/5-5_alien_colors.py" />
+      <change beforePath="$PROJECT_DIR$/5_if_statements/5-7_fav_fruit.py" afterPath="$PROJECT_DIR$/05_if_statements/5-7_fav_fruit.py" />
+      <change beforePath="$PROJECT_DIR$/5_if_statements/5-8_hello_admin.py" afterPath="$PROJECT_DIR$/05_if_statements/5-8_hello_admin.py" />
+      <change beforePath="$PROJECT_DIR$/5_if_statements/5-9_no_users.py" afterPath="$PROJECT_DIR$/05_if_statements/5-9_no_users.py" />
+      <change beforePath="$PROJECT_DIR$/5_if_statements/readme" afterPath="$PROJECT_DIR$/05_if_statements/readme" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/6-10_favorite_numbers.py" afterPath="$PROJECT_DIR$/06_dictionaries/6-10_favorite_numbers.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/6-11_cities.py" afterPath="$PROJECT_DIR$/06_dictionaries/6-11_cities.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/6-1_person.py" afterPath="$PROJECT_DIR$/06_dictionaries/6-1_person.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/6-2_favorite_numbers.py" afterPath="$PROJECT_DIR$/06_dictionaries/6-2_favorite_numbers.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/6-3_glossary.py" afterPath="$PROJECT_DIR$/06_dictionaries/6-3_glossary.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/6-4_glossary_2.py" afterPath="$PROJECT_DIR$/06_dictionaries/6-4_glossary_2.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/6-5_rivers.py" afterPath="$PROJECT_DIR$/06_dictionaries/6-5_rivers.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/6-6_polling.py" afterPath="$PROJECT_DIR$/06_dictionaries/6-6_polling.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/6-7_people.py" afterPath="$PROJECT_DIR$/06_dictionaries/6-7_people.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/6-8_pets.py" afterPath="$PROJECT_DIR$/06_dictionaries/6-8_pets.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/6-9_favorite_places.py" afterPath="$PROJECT_DIR$/06_dictionaries/6-9_favorite_places.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/aliens.py" afterPath="$PROJECT_DIR$/06_dictionaries/aliens.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/fav_langs.py" afterPath="$PROJECT_DIR$/06_dictionaries/fav_langs.py" />
+      <change beforePath="$PROJECT_DIR$/6_dictionaries/readme" afterPath="$PROJECT_DIR$/06_dictionaries/readme" />
+      <change beforePath="$PROJECT_DIR$/7_user_input_and_while_loops/7-10_dream_vacation.py" afterPath="$PROJECT_DIR$/07_user_input_and_while_loops/7-10_dream_vacation.py" />
+      <change beforePath="$PROJECT_DIR$/7_user_input_and_while_loops/7-1_rental_car.py" afterPath="$PROJECT_DIR$/07_user_input_and_while_loops/7-1_rental_car.py" />
+      <change beforePath="$PROJECT_DIR$/7_user_input_and_while_loops/7-2_restaurant_seating.py" afterPath="$PROJECT_DIR$/07_user_input_and_while_loops/7-2_restaurant_seating.py" />
+      <change beforePath="$PROJECT_DIR$/7_user_input_and_while_loops/7-3_multiples_of_ten.py" afterPath="$PROJECT_DIR$/07_user_input_and_while_loops/7-3_multiples_of_ten.py" />
+      <change beforePath="$PROJECT_DIR$/7_user_input_and_while_loops/7-4_pizza_toppings.py" afterPath="$PROJECT_DIR$/07_user_input_and_while_loops/7-4_pizza_toppings.py" />
+      <change beforePath="$PROJECT_DIR$/7_user_input_and_while_loops/7-5_movie_ticketes.py" afterPath="$PROJECT_DIR$/07_user_input_and_while_loops/7-5_movie_ticketes.py" />
+      <change beforePath="$PROJECT_DIR$/7_user_input_and_while_loops/7-6-1.py" afterPath="$PROJECT_DIR$/07_user_input_and_while_loops/7-6-1.py" />
+      <change beforePath="$PROJECT_DIR$/7_user_input_and_while_loops/7-6_three_exits.py" afterPath="$PROJECT_DIR$/07_user_input_and_while_loops/7-6_three_exits.py" />
+      <change beforePath="$PROJECT_DIR$/7_user_input_and_while_loops/7-8_deli.py" afterPath="$PROJECT_DIR$/07_user_input_and_while_loops/7-8_deli.py" />
+      <change beforePath="$PROJECT_DIR$/7_user_input_and_while_loops/7-9_no_pastrami.py" afterPath="$PROJECT_DIR$/07_user_input_and_while_loops/7-9_no_pastrami.py" />
+      <change beforePath="$PROJECT_DIR$/7_user_input_and_while_loops/readme" afterPath="$PROJECT_DIR$/07_user_input_and_while_loops/readme" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-11_unchanged_magicians.py" afterPath="$PROJECT_DIR$/08_functions/8-11_unchanged_magicians.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-12_sandwiches.py" afterPath="$PROJECT_DIR$/08_functions/8-12_sandwiches.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-13_user_profile.py" afterPath="$PROJECT_DIR$/08_functions/8-13_user_profile.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-14_cars.py" afterPath="$PROJECT_DIR$/08_functions/8-14_cars.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-1_message.py" afterPath="$PROJECT_DIR$/08_functions/8-1_message.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-2_favorite_book.py" afterPath="$PROJECT_DIR$/08_functions/8-2_favorite_book.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-3_t_shirt.py" afterPath="$PROJECT_DIR$/08_functions/8-3_t_shirt.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-4_large_shirts.py" afterPath="$PROJECT_DIR$/08_functions/8-4_large_shirts.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-5_cities.py" afterPath="$PROJECT_DIR$/08_functions/8-5_cities.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-6_city_names.py" afterPath="$PROJECT_DIR$/08_functions/8-6_city_names.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-7_album.py" afterPath="$PROJECT_DIR$/08_functions/8-7_album.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-8_user_albums.py" afterPath="$PROJECT_DIR$/08_functions/8-8_user_albums.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/8-9_8-10_magicians.py" afterPath="$PROJECT_DIR$/08_functions/8-9_8-10_magicians.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/import_and_print.py" afterPath="$PROJECT_DIR$/08_functions/import_and_print.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/import_practice/magician_def.py" afterPath="$PROJECT_DIR$/08_functions/import_practice/magician_def.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/import_practice/show_magicians.py" afterPath="$PROJECT_DIR$/08_functions/import_practice/show_magicians.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/import_practice/show_magicians_1.py" afterPath="$PROJECT_DIR$/08_functions/import_practice/show_magicians_1.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/import_practice/show_magicians_2.py" afterPath="$PROJECT_DIR$/08_functions/import_practice/show_magicians_2.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/import_practice/show_magicians_3.py" afterPath="$PROJECT_DIR$/08_functions/import_practice/show_magicians_3.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/making_pizzas.py" afterPath="$PROJECT_DIR$/08_functions/making_pizzas.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/pizza.py" afterPath="$PROJECT_DIR$/08_functions/pizza.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/printing_functions.py" afterPath="$PROJECT_DIR$/08_functions/printing_functions.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/printing_models.py" afterPath="$PROJECT_DIR$/08_functions/printing_models.py" />
+      <change beforePath="$PROJECT_DIR$/8_functions/readme" afterPath="$PROJECT_DIR$/08_functions/readme" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-10_import_restaurant/my_restaurant.py" afterPath="$PROJECT_DIR$/09_classes/9-10_import_restaurant/my_restaurant.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-10_import_restaurant/restaurant.py" afterPath="$PROJECT_DIR$/09_classes/9-10_import_restaurant/restaurant.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-11_import_admin/admin.py" afterPath="$PROJECT_DIR$/09_classes/9-11_import_admin/admin.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-11_import_admin/new_admin.py" afterPath="$PROJECT_DIR$/09_classes/9-11_import_admin/new_admin.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-12_multiple_modules/admin.py" afterPath="$PROJECT_DIR$/09_classes/9-12_multiple_modules/admin.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-12_multiple_modules/my_user.py" afterPath="$PROJECT_DIR$/09_classes/9-12_multiple_modules/my_user.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-12_multiple_modules/user.py" afterPath="$PROJECT_DIR$/09_classes/9-12_multiple_modules/user.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-13_ordered_dict_rewrite.py" afterPath="$PROJECT_DIR$/09_classes/9-13_ordered_dict_rewrite.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-14_dice.py" afterPath="$PROJECT_DIR$/09_classes/9-14_dice.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-1_restaurant.py" afterPath="$PROJECT_DIR$/09_classes/9-1_restaurant.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-3_users.py" afterPath="$PROJECT_DIR$/09_classes/9-3_users.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-4_number_served.py" afterPath="$PROJECT_DIR$/09_classes/9-4_number_served.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-5_login_attempts.py" afterPath="$PROJECT_DIR$/09_classes/9-5_login_attempts.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-6_ice_cream_stand.py" afterPath="$PROJECT_DIR$/09_classes/9-6_ice_cream_stand.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-7_admin.py" afterPath="$PROJECT_DIR$/09_classes/9-7_admin.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-8_privileges.py" afterPath="$PROJECT_DIR$/09_classes/9-8_privileges.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/9-9_battery_upgrade.py" afterPath="$PROJECT_DIR$/09_classes/9-9_battery_upgrade.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/class/car.py" afterPath="$PROJECT_DIR$/09_classes/class/car.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/class/multi_import/car.py" afterPath="$PROJECT_DIR$/09_classes/class/multi_import/car.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/class/multi_import/electric_car.py" afterPath="$PROJECT_DIR$/09_classes/class/multi_import/electric_car.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/class/multi_import/my_car.py" afterPath="$PROJECT_DIR$/09_classes/class/multi_import/my_car.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/class/my_car.py" afterPath="$PROJECT_DIR$/09_classes/class/my_car.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/class/my_electric_car.py" afterPath="$PROJECT_DIR$/09_classes/class/my_electric_car.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/electric_car.py" afterPath="$PROJECT_DIR$/09_classes/electric_car.py" />
+      <change beforePath="$PROJECT_DIR$/9_classes/readme" afterPath="$PROJECT_DIR$/09_classes/readme" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,18 +126,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="test_city_population.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11_testing/11-1_city_country_&amp;_11-2_population/test_city_population.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11_testing/11-3_employee/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,14 +156,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_employee.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_employee.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11_testing/11-3_employee/test_employee.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="576">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2-3_personalized_message.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02_variables_and_data_types/2-3_personalized_message.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,7 +224,7 @@
         <entry file="file://$PROJECT_DIR$/11_testing/test_name_function_template.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -125,6 +238,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -183,12 +299,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="220" />
     <option name="y" value="34" />
     <option name="width" value="1380" />
     <option name="height" value="1014" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -214,65 +331,65 @@
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="2_variables_and_data_types" type="462c0819:PsiDirectoryNode" />
+              <item name="02_variables_and_data_types" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="3_lists" type="462c0819:PsiDirectoryNode" />
+              <item name="03_lists" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="4_lists" type="462c0819:PsiDirectoryNode" />
+              <item name="04_lists" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="5_if_statements" type="462c0819:PsiDirectoryNode" />
+              <item name="05_if_statements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="6_dictionaries" type="462c0819:PsiDirectoryNode" />
+              <item name="06_dictionaries" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="7_user_input_and_while_loops" type="462c0819:PsiDirectoryNode" />
+              <item name="07_user_input_and_while_loops" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="8_functions" type="462c0819:PsiDirectoryNode" />
+              <item name="08_functions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="8_functions" type="462c0819:PsiDirectoryNode" />
+              <item name="08_functions" type="462c0819:PsiDirectoryNode" />
               <item name="import_practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="9_classes" type="462c0819:PsiDirectoryNode" />
+              <item name="09_classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="9_classes" type="462c0819:PsiDirectoryNode" />
+              <item name="09_classes" type="462c0819:PsiDirectoryNode" />
               <item name="9-10_import_restaurant" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="9_classes" type="462c0819:PsiDirectoryNode" />
+              <item name="09_classes" type="462c0819:PsiDirectoryNode" />
               <item name="9-11_import_admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="9_classes" type="462c0819:PsiDirectoryNode" />
+              <item name="09_classes" type="462c0819:PsiDirectoryNode" />
               <item name="9-12_multiple_modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -579,13 +696,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="220" y="34" width="1920" height="1046" extended-state="7" />
+    <frame x="220" y="34" width="1920" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22703274" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3104213" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497349" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -615,7 +732,7 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/9_classes/9-10_import_restaurant/restaurant.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-11_import_admin/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -623,7 +740,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-11_import_admin/admin.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-11_import_admin/new_admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -631,15 +748,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-11_import_admin/new_admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-12_multiple_modules/admin.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-12_multiple_modules/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
@@ -647,7 +756,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-12_multiple_modules/my_user.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-12_multiple_modules/my_user.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -657,7 +766,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-12_multiple_modules/user.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-12_multiple_modules/user.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -665,7 +774,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-1_restaurant.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-1_restaurant.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -673,7 +782,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-3_users.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-3_users.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -681,7 +790,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-4_number_served.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-4_number_served.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-337">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -689,7 +798,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-5_login_attempts.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-5_login_attempts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-385">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -697,7 +806,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-6_ice_cream_stand.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-6_ice_cream_stand.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-504">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -705,7 +814,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-7_admin.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-7_admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-769">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -713,7 +822,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-8_privileges.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-8_privileges.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
@@ -721,7 +830,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-9_battery_upgrade.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-9_battery_upgrade.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-360">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -729,7 +838,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-13_ordered_dict_rewrite.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-13_ordered_dict_rewrite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -737,7 +846,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/9-14_dice.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/9-14_dice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -745,7 +854,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/electric_car.py">
+    <entry file="file://$PROJECT_DIR$/09_classes/electric_car.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -753,7 +862,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_classes/readme">
+    <entry file="file://$PROJECT_DIR$/09_classes/readme">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -942,7 +1051,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -952,7 +1061,7 @@
         <state relative-caret-position="216">
           <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1018,7 +1127,7 @@
     <entry file="file://$PROJECT_DIR$/11_testing/test_name_function_template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1026,10 +1135,18 @@
     <entry file="file://$PROJECT_DIR$/11_testing/11-3_employee/test_employee.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_variables_and_data_types/2-3_personalized_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
